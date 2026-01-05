@@ -1,0 +1,362 @@
+[
+  {
+    "courseCode": "SH1106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH2201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH3203",
+    "courseTitle": "Engineering Physics",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4201",
+    "courseTitle": "Engineering Chemistry",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4801",
+    "courseTitle": "Environmental Sciences and Sustainability",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3801",
+    "courseTitle": "Artificial Intelligence and Applications",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME0309",
+    "courseTitle": "Engineering Drawing and Visualisation",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2306",
+    "courseTitle": "Basic Electrical, Electronics and Instrumentation Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME0312",
+    "courseTitle": "Mechanics of Solids",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "AG0301",
+    "courseTitle": "Fundamentals of Agricultural Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0302",
+    "courseTitle": "Principles of Agronomy and Soil Science",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0303",
+    "courseTitle": "Fluid Mechanics and Open Channel Hydraulics",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0304",
+    "courseTitle": "Theory of Machines",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0305",
+    "courseTitle": "Agricultural Structures and Environmental Control",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0306",
+    "courseTitle": "Surveying and Levelling",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0307",
+    "courseTitle": "Soil Mechanics for Agricultural Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0401",
+    "courseTitle": "Watershed Hydrology",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0402",
+    "courseTitle": "Irrigation and Drainage Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0403",
+    "courseTitle": "Tractors and Automotive Engines",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0404",
+    "courseTitle": "Engineering Properties of Agricultural Produce",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0405",
+    "courseTitle": "Soil and Water Conservation Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0406",
+    "courseTitle": "Farm Machinery and Equipment I",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0407",
+    "courseTitle": "Post Harvest Engineering of Cereals, Pulses and Oil Seeds",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0408",
+    "courseTitle": "Groundwater, Wells and Pumps",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0409",
+    "courseTitle": "Farm Machinery and Equipment II",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0410",
+    "courseTitle": "Dairy and Food Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0411",
+    "courseTitle": "Bio-Energy Systems: Design and Applications",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0412",
+    "courseTitle": "Remote Sensing and GIS Applications",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0518",
+    "courseTitle": "Testing and Evaluation of Tractors and Farm Machinery",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0519",
+    "courseTitle": "Solar Energy in Agricultural Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0520",
+    "courseTitle": "Agricultural Waste Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0521",
+    "courseTitle": "Climate Change and Adaptation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0522",
+    "courseTitle": "Data Science for Soil and Water Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0523",
+    "courseTitle": "Computational Software for Crop Growth Modeling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0524",
+    "courseTitle": "Emerging Technologies in Food Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0525",
+    "courseTitle": "3D Printing Technology for Food Industry",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - I",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - II",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - III",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - IV",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "AG0851",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "AG0852",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "SH6802",
+    "courseTitle": "Start Up",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8801",
+    "courseTitle": "Constitutionalism and Artificial Intelligence Policies in India",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6803",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8807",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8808",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]

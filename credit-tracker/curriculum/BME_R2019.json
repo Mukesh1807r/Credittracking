@@ -1,0 +1,770 @@
+[
+  {
+    "courseCode": "SH1101",
+    "courseTitle": "Communicative English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Technical English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH1105",
+    "courseTitle": "Public Speaking",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Principles of Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Total Quality Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Calculus and Laplace Transforms",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Complex Variables and Ordinary Differential Equations",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Transforms and Partial Differential Equations",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Random Processes and Statistics",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2223",
+    "courseTitle": "Linear Algebra and Probability",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Fundamentals of Engineering Physics",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Medical Physics",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Chemistry for Biomedical Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Problem Solving and Python Programming",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Basic Electrical Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Devices and Circuits",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC4301",
+    "courseTitle": "Electronic Circuits and Special Devices",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Electric Circuit Analysis",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2301",
+    "courseTitle": "Electric Circuits and Networks",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Digital Principles and System Design",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1306",
+    "courseTitle": "Analog and Digital Communication",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Engineering Drawing",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Fundamentals of Data Structures using Python",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Basic Electrical and Instrumentation Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4401",
+    "courseTitle": "Biochemistry",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Biosensors and Transducers",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1402",
+    "courseTitle": "Signals and Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4412",
+    "courseTitle": "Anatomy and Human Physiology",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Linear Integrated Circuits",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1421",
+    "courseTitle": "Analysis and Design of Analog ICS",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC4404",
+    "courseTitle": "Pathology and Microbiology",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Biomedical and Virtual Instrumentation",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1408",
+    "courseTitle": "Microprocessor and Microcontroller",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC4402",
+    "courseTitle": "Bio Control Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4406",
+    "courseTitle": "Biomechanics",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Diagnostic and Interventional Equipment",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC4408",
+    "courseTitle": "Biomedical Signal Processing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC4530",
+    "courseTitle": "Medical Image Processing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Pattern Recognition and Neural Networks",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4410",
+    "courseTitle": "Bio Materials and Artificial Organs",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Medical Imaging Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Medical Assist Devices",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1520",
+    "courseTitle": "Introduction to MEMS and NEMS",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Embedded Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1424",
+    "courseTitle": "Embedded Systems and loT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4833",
+    "courseTitle": "Physiological Modeling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Virtual Reality: Biomedical Centric Approach",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4531",
+    "courseTitle": "Virtual Reality and Augmented Reality in Health care",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4507",
+    "courseTitle": "Robotics in Medicine",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4504",
+    "courseTitle": "Rehabilitation Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4502",
+    "courseTitle": "Biofluids and Dynamics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4506",
+    "courseTitle": "Medical Nanotechnology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4510",
+    "courseTitle": "Ergonomics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Tissue Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Lab on Chip",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Fiber Optics and Lasers in Medicine",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Biomaterial Characterization",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Hospital Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4525",
+    "courseTitle": "Hospital Planning and Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Biometric Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Principles of Telemedicine",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Speech Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Fundamentals of Computer Communication",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Brain Computer Interface and its Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Medical Wearable Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Bioinformatics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4532",
+    "courseTitle": "Medical Informatics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Neural Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1501",
+    "courseTitle": "Machine Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1517",
+    "courseTitle": "Mobile Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1519",
+    "courseTitle": "Data Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1520",
+    "courseTitle": "Big Data Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1524",
+    "courseTitle": "Deep Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1526",
+    "courseTitle": "R Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1515",
+    "courseTitle": "Block Chain Architecture and its Use Cases",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1528",
+    "courseTitle": "Robotics and its Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1529",
+    "courseTitle": "Quantum Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1530",
+    "category": "PE",
+    "courseTitle": "Cyber Security",
+    "credits": 3
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Artificial intelligence: A modern Approach",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3304",
+    "courseTitle": "Fundamentals of C Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3305",
+    "courseTitle": "Advanced C Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3307",
+    "courseTitle": "Object Oriented Programming using Java",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3404",
+    "courseTitle": "Analysis of Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1404",
+    "courseTitle": "Database Management System and its Applications",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1509",
+    "courseTitle": "Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4518",
+    "courseTitle": "Foundation Skills in Integrated Product Development",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4519",
+    "courseTitle": "Medical Device Design",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4520",
+    "courseTitle": "Medical Device Regulations",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4521",
+    "courseTitle": "Patient Safety, Standards and Ethics",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4522",
+    "courseTitle": "Medical Innovation and Entrepreneurship",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4523",
+    "courseTitle": "Rapid Prototyping",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4524",
+    "courseTitle": "Clinical Engineering",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4526",
+    "courseTitle": "Medical Waste Management",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4527",
+    "courseTitle": "Economics and Management for Engineers",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4528",
+    "courseTitle": "Biostatistics",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC4529",
+    "courseTitle": "Forensic Science in Healthcare",
+    "category": "PE(Honours)",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Online Courses",
+    "category": "OE",
+    "credits": 0
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Electives",
+    "category": "OE",
+    "credits": 0
+  },
+  {
+    "courseCode": "EC4701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC4702",
+    "courseTitle": "Project Work Phase 1",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC4703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Softskills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Creative Skills for Communication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "System of Numerical and Logical Terminologies",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Advanced Quantitative and Logical Reasoning",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Employment Enhancement Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Company Specific Assessments For Employability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Professional Ethics",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Environmental Science",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Constitution of India",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Internship/Entrepreneurship/Consulta",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "NA",
+    "courseTitle": "Inplant Training",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6803",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8807",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8808",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]

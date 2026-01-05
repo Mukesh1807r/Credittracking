@@ -1,0 +1,716 @@
+[
+  {
+    "courseCode": "19EN101",
+    "courseTitle": "Communicative English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EN106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EN102",
+    "courseTitle": "Technical English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EN107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "19EN105",
+    "courseTitle": "Public Speaking",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19MS152",
+    "courseTitle": "Total Quality Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "22HS101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "22HS102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MA201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA205",
+    "courseTitle": "Differential Equations and Laplace Transforms",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA224",
+    "courseTitle": "Transforms and Differential Equations",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA209",
+    "courseTitle": "Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19PH204",
+    "courseTitle": "Physics for Chemical Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CY204",
+    "courseTitle": "Chemistry for Technologists I",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CY209",
+    "courseTitle": "Chemistry for Technologists II",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CY210",
+    "courseTitle": "Chemistry for Technologists III",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS301",
+    "courseTitle": "Problem Solving and Python Programming",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19ME302",
+    "courseTitle": "Engineering Drawing",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19ME307",
+    "courseTitle": "Basic Mechanical Engineering",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EE306",
+    "courseTitle": "Basic Electrical, Electronics and Instrumentation Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH301",
+    "courseTitle": "Principles of Chemical Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH302",
+    "courseTitle": "Basics of Material Science and Solid Mechanics",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH303",
+    "courseTitle": "Chemical Process Calculations",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH401",
+    "courseTitle": "Fluid Mechanics for Chemical Engineers",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH402",
+    "courseTitle": "Chemical Engineering Thermodynamics",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH403",
+    "courseTitle": "Mechanical Operations",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH404",
+    "courseTitle": "Chemical Process Industries",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH405",
+    "courseTitle": "Heat Transfer",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH406",
+    "courseTitle": "Mass Transfer I",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH407",
+    "courseTitle": "Chemical Reaction Engineering I",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH408",
+    "courseTitle": "Mass Transfer II",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH409",
+    "courseTitle": "Chemical Reaction Engineering II",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH410",
+    "courseTitle": "Transport Phenomena",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH411",
+    "courseTitle": "Process Instrumentation, Dynamics and Control",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH412",
+    "courseTitle": "Process Equipment Design and Drawing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CH413",
+    "courseTitle": "Project Engineering Economics",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH414",
+    "courseTitle": "Safety in Chemical Industries",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH415",
+    "courseTitle": "Computational Programming Laboratory",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CH522",
+    "courseTitle": "Bioenergy",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH523",
+    "courseTitle": "Green Energy",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH524",
+    "courseTitle": "Pinch Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH525",
+    "courseTitle": "Hydrogen and Fuel Cell Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH526",
+    "courseTitle": "Conventional Energy Sources",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH527",
+    "courseTitle": "Smart Energy Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH528",
+    "courseTitle": "Petroleum Chemistry and Refining Fundamentals",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH529",
+    "courseTitle": "Primary Refining Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH530",
+    "courseTitle": "Secondary Refining Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH531",
+    "courseTitle": "Refinery Advancement and Environmental Regulations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH532",
+    "courseTitle": "Petroleum Equipment Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH533",
+    "courseTitle": "Petrochemical Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH534",
+    "courseTitle": "Design and Analysis of Experiments",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH535",
+    "courseTitle": "Optimization of Chemical Processes",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH536",
+    "courseTitle": "Chemical Process Simulation and Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH537",
+    "courseTitle": "Pinch Analysis and Heat Exchange Network Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH538",
+    "courseTitle": "Chemical Process Flow sheeting",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH539",
+    "courseTitle": "Computational Fluid Dynamics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH540",
+    "courseTitle": "Introduction to Biochemistry",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH541",
+    "courseTitle": "Bioprocess Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH542",
+    "courseTitle": "Fermentation and Bioprocessing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH543",
+    "courseTitle": "Bioseparation and Downstream Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH544",
+    "courseTitle": "Enzyme Immobilization Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH545",
+    "courseTitle": "Bioreactor Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH546",
+    "courseTitle": "Plant Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH547",
+    "courseTitle": "Plant Layout",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH548",
+    "courseTitle": "Design Safety",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH549",
+    "courseTitle": "Material Selection",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH550",
+    "courseTitle": "Statutory Requirements and Customer Care",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH551",
+    "courseTitle": "Plant Utilities",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH552",
+    "courseTitle": "Solid Waste Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH553",
+    "courseTitle": "Environmental Social Risk Assessment",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH554",
+    "courseTitle": "Process Safety Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH555",
+    "courseTitle": "Risk and HAZOP Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH504",
+    "courseTitle": "Air Pollution and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH506",
+    "courseTitle": "Wastewater Treatment",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH501",
+    "courseTitle": "Petroleum Refining and Petrochemicals",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH502",
+    "courseTitle": "Natural Gas Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH503",
+    "courseTitle": "Energy Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH505",
+    "courseTitle": "Green Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH507",
+    "courseTitle": "Disaster Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH508",
+    "courseTitle": "Process Plant Utilities",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH509",
+    "courseTitle": "Instrumental Methods of Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH510",
+    "courseTitle": "Instrumentation and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH511",
+    "courseTitle": "Food Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH512",
+    "courseTitle": "Drugs and Pharmaceutical Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH513",
+    "courseTitle": "Polymer Science and Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH514",
+    "courseTitle": "Pulp and Paper Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH515",
+    "courseTitle": "Fertilizer Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH516",
+    "courseTitle": "Corrosion Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH517",
+    "courseTitle": "Enzyme Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH518",
+    "courseTitle": "Biochemical Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH519",
+    "courseTitle": "Novel Separation Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH520",
+    "courseTitle": "Process Modelling and Simulation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CH521",
+    "courseTitle": "Chemical Process Instrumentation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19XXXXX",
+    "courseTitle": "Open Electives",
+    "category": "OE",
+    "credits": 0
+  },
+  {
+    "courseCode": "19CH701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CH702",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CH703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "19EY701",
+    "courseTitle": "Softskills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY702",
+    "courseTitle": "Creative Skills for Communication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY703",
+    "courseTitle": "System of Numerical and Logical Terminologies",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY704",
+    "courseTitle": "Advanced Quantitative and Logical Reasoning",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY705",
+    "courseTitle": "Employment Enhancement Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY706",
+    "courseTitle": "Company Specific Assessments For Employability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MC801",
+    "courseTitle": "Professional Ethics",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC802",
+    "courseTitle": "Environmental Science",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC803",
+    "courseTitle": "Constitution of India",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC804",
+    "courseTitle": "Internship/Entrepreneurship/Consultancy",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19MC805",
+    "courseTitle": "Inplant Training",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MC807",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC808",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC809",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]

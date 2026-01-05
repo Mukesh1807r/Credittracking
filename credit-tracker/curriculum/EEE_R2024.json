@@ -1,0 +1,614 @@
+[
+  {
+    "courseCode": "SH1106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH9801",
+    "courseTitle": "Organizational Behavior and Leadership",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH2201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2223",
+    "courseTitle": "Linear Algebra and Probability",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH3216",
+    "courseTitle": "Physics for Electronics Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4805",
+    "courseTitle": "Chemistry of Engineering Materials",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH4801",
+    "courseTitle": "Environmental Sciences and Sustainability",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3304",
+    "courseTitle": "Fundamentals of C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3305",
+    "courseTitle": "Advanced C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3306",
+    "courseTitle": "Object Oriented Programming using C++",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3307",
+    "courseTitle": "Object Oriented Programming using Java",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3408",
+    "courseTitle": "Data Structures",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3801",
+    "courseTitle": "Artificial Intelligence and Applications",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME0415",
+    "courseTitle": "Power Generation Engineering",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2301",
+    "courseTitle": "Electric Circuits and Networks",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2801",
+    "courseTitle": "Electromagnetic Theory",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2402",
+    "courseTitle": "Transformers and DC Machines",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2403",
+    "courseTitle": "AC Machines",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2404",
+    "courseTitle": "Digital Electronics",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2405",
+    "courseTitle": "Electronic Circuits",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2802",
+    "courseTitle": "Measurement and Instrumentation Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2407",
+    "courseTitle": "Linear Integrated Circuits and Applications",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2803",
+    "courseTitle": "Control Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2804",
+    "courseTitle": "Electrical Power Transmission and Distribution Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2410",
+    "courseTitle": "Power System Analysis",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2411",
+    "courseTitle": "Power Electronics",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2830",
+    "courseTitle": "Microprocessor and Microcontroller Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2805",
+    "courseTitle": "Solid State Drives and Control",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2806",
+    "courseTitle": "Digital Signal Processing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2415",
+    "courseTitle": "High Voltage Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2807",
+    "courseTitle": "Fundamentals of Renewable Energy Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2506",
+    "courseTitle": "Restructured Power Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2504",
+    "courseTitle": "Flexible AC Transmission Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2810",
+    "courseTitle": "Energy Storage Technologies",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2809",
+    "courseTitle": "Power Quality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2812",
+    "courseTitle": "Microgrid Modelling and Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2813",
+    "courseTitle": "Microgrid Protection and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2814",
+    "courseTitle": "Wind Energy and Sustainability",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2815",
+    "courseTitle": "Smart Grid Technology for Renewable Energy System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2816",
+    "courseTitle": "Grid Connected and Standalone PV Solar Plant Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2817",
+    "courseTitle": "Energy Forecasting and Modelling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2818",
+    "courseTitle": "Solar Energy Engineering and Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2819",
+    "courseTitle": "Power Electronics for Renewable Energy Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2820",
+    "courseTitle": "Embedded System Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2821",
+    "courseTitle": "Embedded Control for Electric Drives",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2822",
+    "courseTitle": "Embedded System for Automotive Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2823",
+    "courseTitle": "Embedded Processors",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2824",
+    "courseTitle": "Embedded C-Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2825",
+    "courseTitle": "Smart System Automation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2526",
+    "courseTitle": "Introduction to Fundamentals of Electric Vehicles",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2527",
+    "courseTitle": "Electric Vehicle Powertrain and Integration",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2528",
+    "courseTitle": "Electric Vehicle Charging Infrastructure",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2529",
+    "courseTitle": "Electric Vehicle Grid Integration",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2530",
+    "courseTitle": "Embedded IoT for Electric Vehicles",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2531",
+    "courseTitle": "Embedded AI for Electric Vehicles",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2532",
+    "courseTitle": "Battery Technologies and Management Systems for Electric Vehicles",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1410",
+    "courseTitle": "VLSI Design",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1523",
+    "courseTitle": "Verilog HDL",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1521",
+    "courseTitle": "System Verilog for Design and Verification",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1522",
+    "category": "PE",
+    "courseTitle": "Physical Design for VLSI",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1822",
+    "courseTitle": "VLSI Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1517",
+    "courseTitle": "Low Power VLSI Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1519",
+    "courseTitle": "Testing of VLSI Circuits",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3404",
+    "courseTitle": "Analysis of Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1404",
+    "courseTitle": "Database Management System and its Applications",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1509",
+    "courseTitle": "Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3410",
+    "courseTitle": "Introduction to Machine Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2508",
+    "courseTitle": "Power System Transients",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2511",
+    "courseTitle": "Protection and Switchgear",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2512",
+    "courseTitle": "Utilisation, Safety and Maintenance of Electrical Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2827",
+    "courseTitle": "Substation Engineering and Automation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2828",
+    "courseTitle": "Sustainable Engineering Design for Indoor And Outdoor Illumination",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2509",
+    "courseTitle": "Energy Management and Auditing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2516",
+    "courseTitle": "Computer Aided Design of Electrical Machines",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1520",
+    "courseTitle": "Introduction to MEMS and NEMS",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2515",
+    "courseTitle": "Soft Computing Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1542",
+    "courseTitle": "Embedded Board Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Electives",
+    "category": "OE",
+    "credits": 0
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Online Courses",
+    "category": "OE",
+    "credits": 0
+  },
+  {
+    "courseCode": "EC2701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC2702",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC2703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "SH6802",
+    "courseTitle": "Start Up",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8801",
+    "courseTitle": "Constitutionalism and Artificial Intelligence Policies in India",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8802",
+    "courseTitle": "Internship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH8803",
+    "courseTitle": "Entrepreneurship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH6803",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8807",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8808",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]

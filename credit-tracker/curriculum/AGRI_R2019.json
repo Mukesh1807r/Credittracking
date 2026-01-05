@@ -1,0 +1,626 @@
+[
+  {
+    "courseCode": "19EN103",
+    "courseTitle": "Communication Skills and Personality Development",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "22HS101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "22HS102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MA201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA208",
+    "courseTitle": "Calculus and Matrices",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19MA203",
+    "courseTitle": "Complex Variables and Differential Equations",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19MA215",
+    "courseTitle": "Numerical Analysis and Laplace Transformation",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG201",
+    "courseTitle": "Principles of Agronomy",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG202",
+    "courseTitle": "Principles of Soil Science",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG203",
+    "courseTitle": "Principles of Horticultural Crops and Plant Protection",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "19PH203",
+    "courseTitle": "Engineering Physics",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CY201",
+    "courseTitle": "Engineering Chemistry",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3801",
+    "courseTitle": "Artificial Intelligence and Applications",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19ME309",
+    "courseTitle": "Engineering Drawing and Visualisation",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CE301",
+    "courseTitle": "Engineering Drawing and Modeling",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EE306",
+    "courseTitle": "Basic Electrical, Electronics and Instrumentation Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG101",
+    "courseTitle": "Entrepreneurship Development and Business Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG301",
+    "courseTitle": "Fluid Mechanics and Open Channel Hydraulics",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG302",
+    "courseTitle": "Strength of Materials",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19ME312",
+    "courseTitle": "Mechanics of Solids",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19AG303",
+    "courseTitle": "Heat and Mass Transfer for Agricultural Engineers",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG304",
+    "courseTitle": "Theory of Machines",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG305",
+    "courseTitle": "Thermodynamics, Refrigeration and Air Conditioning",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG306",
+    "courseTitle": "Surveying and Levelling",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG307",
+    "courseTitle": "Applied Electronics and Instrumentation",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG308",
+    "courseTitle": "Machine Design",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG309",
+    "courseTitle": "Soil Mechanics for Agricultural Engineering",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG310",
+    "courseTitle": "Engineering Mechanics",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG401",
+    "courseTitle": "Watershed Hydrology",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG402",
+    "courseTitle": "Electrical Machines and Power Utilization",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG403",
+    "courseTitle": "Fundamentals of Renewable Energy Sources",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG404",
+    "courseTitle": "Irrigation and Drainage Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG405",
+    "courseTitle": "Tractors and Automotive Engines",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG406",
+    "courseTitle": "Engineering Properties of Agricultural Produce",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG407",
+    "courseTitle": "Farm Building Construction and Cost Estimation",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG408",
+    "courseTitle": "Waste and By-Products Utilization",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG409",
+    "courseTitle": "Soil and Water Conservation Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG410",
+    "courseTitle": "Watershed Planning and Management",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG411",
+    "courseTitle": "Sprinkler and Micro Irrigation Systems",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG412",
+    "courseTitle": "Farm Machinery and Equipment I",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG413",
+    "courseTitle": "Tractor Systems and Controls",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG414",
+    "courseTitle": "Agricultural Structures and Environmental Control",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG415",
+    "courseTitle": "Post Harvest Engineering of Cereals, Pulses and Oil Seeds",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG416",
+    "courseTitle": "Water Harvesting and Soil Conservation Structures",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG417",
+    "courseTitle": "Groundwater, Wells and Pumps",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG418",
+    "courseTitle": "Farm Machinery and Equipment II",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG419",
+    "courseTitle": "Tractors and Farm Machinery Operation and Maintenance",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG420",
+    "courseTitle": "Post Harvest Engineering of Horticultural Crops",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG421",
+    "courseTitle": "Dairy and Food Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG422",
+    "courseTitle": "Precision Farming Techniques for Protected Cultivation",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG423",
+    "courseTitle": "Bio-Energy Systems: Design and Applications",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG424",
+    "courseTitle": "Remote Sensing and GIS Applications",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG508",
+    "courseTitle": "Farm Machinery Design and Production",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG509",
+    "courseTitle": "Human Engineering and Safety",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG501",
+    "courseTitle": "Wasteland Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG502",
+    "courseTitle": "Information Technology for Land and Water Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG503",
+    "courseTitle": "Minor Irrigation and Command Area Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG505",
+    "courseTitle": "Water Quality and Management Measures",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG506",
+    "courseTitle": "Landscape Irrigation Design and Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG507",
+    "courseTitle": "Mechanics of Tillage and Traction",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG510",
+    "courseTitle": "Tractor Design and Testing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG511",
+    "courseTitle": "Precision Agriculture and System Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG512",
+    "courseTitle": "Food Quality and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG513",
+    "courseTitle": "Food Plant Design and Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG514",
+    "courseTitle": "Food Packaging Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG515",
+    "courseTitle": "Development of Processed Products",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG516",
+    "courseTitle": "Process Equipment and Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG517",
+    "courseTitle": "Floods and Control Measures",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG518",
+    "courseTitle": "Testing and Evaluation of Tractors and Farm Machinery",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG519",
+    "courseTitle": "Solar Energy in Agricultural Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG520",
+    "courseTitle": "Agricultural Waste Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG521",
+    "courseTitle": "Climate Change and Adaptation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG522",
+    "courseTitle": "Data Science for Soil and Water Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG523",
+    "courseTitle": "Computational Software for Crop Growth Modeling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG524",
+    "courseTitle": "Emerging Technologies in Food Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG525",
+    "courseTitle": "3D Printing Technology for Food Industry",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AG701",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19AG702",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "19AG703",
+    "courseTitle": "Industrial Training",
+    "category": "EEC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19AG704",
+    "courseTitle": "Experiential Learning on Campus",
+    "category": "EEC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19AG705",
+    "courseTitle": "Skill Development Training I",
+    "category": "EEC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19AG706",
+    "courseTitle": "Skill Development Training II",
+    "category": "EEC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19AG707",
+    "courseTitle": "Educational Tour",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19EY708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY701",
+    "courseTitle": "Softskills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY702",
+    "courseTitle": "Creative Skills for Communication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY703",
+    "courseTitle": "System of Numerical and Logical Terminologies",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY704",
+    "courseTitle": "Advanced Quantitative and Logical Reasoning",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY705",
+    "courseTitle": "Employment Enhancement Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY706",
+    "courseTitle": "Company Specific Assessments For Employability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY707",
+    "courseTitle": "Paper Publication",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MC807",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC808",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC809",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC803",
+    "courseTitle": "Constitution of India",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC802",
+    "courseTitle": "Environmental Science",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC801",
+    "courseTitle": "Professional Ethics",
+    "category": "MC",
+    "credits": 0
+  }
+]

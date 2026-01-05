@@ -1,0 +1,584 @@
+[
+  {
+    "courseCode": "SH1106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH2201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2202",
+    "courseTitle": "Calculus and Ordinary Differential Equations",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2203",
+    "courseTitle": "Partial Differential Equations and Transforms",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH3201",
+    "courseTitle": "Physics for Mechanical Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4201",
+    "courseTitle": "Chemistry for Mechanical Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4801",
+    "courseTitle": "Environmental Sciences and Sustainability",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3301",
+    "courseTitle": "Engineering Drawing",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3302",
+    "courseTitle": "Engineering Mechanics",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EE3304",
+    "courseTitle": "Basic Electrical and Electronics Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3303",
+    "courseTitle": "Design Thinking and Product Development",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3401",
+    "courseTitle": "Engineering Thermodynamics",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3402",
+    "courseTitle": "Fluid Mechanics and Machinery",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3403",
+    "courseTitle": "Manufacturing Processes",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3404",
+    "courseTitle": "Material Science and Metallurgy",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3405",
+    "courseTitle": "Strength of Materials",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3406",
+    "courseTitle": "Thermal Engineering",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3407",
+    "courseTitle": "Kinematics of Machinery",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3408",
+    "courseTitle": "Metal Cutting and Machine Tools",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3409",
+    "courseTitle": "Design of Machine Elements",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3410",
+    "courseTitle": "Dynamics of Machinery",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3411",
+    "courseTitle": "Heat and Mass Transfer",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3412",
+    "courseTitle": "Metrology and Measurements",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3413",
+    "courseTitle": "Design of Transmission Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3414",
+    "courseTitle": "Mechatronics and IoT",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3415",
+    "courseTitle": "CAD and Finite Element Analysis",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "ME3416",
+    "courseTitle": "Computer Integrated Manufacturing",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3501",
+    "courseTitle": "Alternative Fuels and Energy Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3502",
+    "courseTitle": "Refrigeration and Air-conditioning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3503",
+    "courseTitle": "Power Plant Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3504",
+    "courseTitle": "Gas Dynamics and Jet Propulsion",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3505",
+    "courseTitle": "Design of Jigs, Fixtures and Press Tools",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3506",
+    "courseTitle": "Design for Manufacturing and Assembly",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3507",
+    "courseTitle": "Tool Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3508",
+    "courseTitle": "Advanced IC Engines",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3509",
+    "courseTitle": "Computational Fluid Dynamics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3510",
+    "courseTitle": "Process Planning and Cost Estimation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3511",
+    "courseTitle": "Modern Manufacturing Methods",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3512",
+    "courseTitle": "Additive Manufacturing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3513",
+    "courseTitle": "Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3514",
+    "courseTitle": "Advanced Material Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3515",
+    "courseTitle": "Mechanical Vibrations and Noise Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3516",
+    "courseTitle": "Automobile Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3517",
+    "courseTitle": "Micro and Nano Manufacturing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3518",
+    "courseTitle": "Maintenance Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3519",
+    "courseTitle": "Hydraulics and Pneumatics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3520",
+    "courseTitle": "Unconventional Machining Processes",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3521",
+    "courseTitle": "Non Destructive Testing and Evaluation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3522",
+    "courseTitle": "Composite Materials",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3523",
+    "courseTitle": "Solar Energy Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3524",
+    "courseTitle": "New and Renewable Sources of Energy",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3525",
+    "courseTitle": "Bio Energy",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3526",
+    "courseTitle": "Electric and Hybrid Vehicles",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3527",
+    "courseTitle": "Surface Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3528",
+    "courseTitle": "Product Design and Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3529",
+    "courseTitle": "Smart Materials and Structures",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3530",
+    "courseTitle": "Automotive Electronics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3531",
+    "courseTitle": "Lean Manufacturing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3532",
+    "courseTitle": "Supply Chain Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3533",
+    "courseTitle": "Operations Research",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3534",
+    "courseTitle": "Industrial Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3535",
+    "courseTitle": "Project Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3536",
+    "courseTitle": "Industrial Safety and Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3537",
+    "courseTitle": "Engineering Entrepreneurship",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3538",
+    "courseTitle": "Total Quality Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3539",
+    "courseTitle": "Marketing Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3540",
+    "courseTitle": "Human Resource Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3541",
+    "courseTitle": "Industrial Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3542",
+    "courseTitle": "Production and Operations Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3543",
+    "courseTitle": "Quality Control and Reliability Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - I",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - II",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - III",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - IV",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "ME3701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "ME3702",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "ME3703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "SH6802",
+    "courseTitle": "Start Up",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8801",
+    "courseTitle": "Constitutionalism and Artificial Intelligence Policies in India",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8802",
+    "courseTitle": "Internship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH8803",
+    "courseTitle": "Entrepreneurship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH6803",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8807",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8808",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]

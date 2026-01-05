@@ -1,0 +1,1274 @@
+[
+  {
+    "courseCode": "SH1104",
+    "courseTitle": "Technical Writing",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH1105",
+    "courseTitle": "Public Speaking",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH1101",
+    "courseTitle": "Communicative English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH9154",
+    "courseTitle": "Basic Financial Accounting",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH9156",
+    "courseTitle": "Human Resource Management and Team Building",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH9155",
+    "courseTitle": "Stock Market and Company Operations",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH2222",
+    "courseTitle": "Probability and Queueing Models",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2219",
+    "courseTitle": "Transforms and Its Applications",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2220",
+    "courseTitle": "Mathematics for Artificial Intelligence",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2221",
+    "courseTitle": "Linear Algebra Laboratory",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH3214",
+    "courseTitle": "Physics for Quantum Computing",
+    "category": "BS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH4205",
+    "courseTitle": "Principles of Chemistry in Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4801",
+    "courseTitle": "Environmental Sciences and Sustainability",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3302",
+    "courseTitle": "Engineering Design and Modelling",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3303",
+    "courseTitle": "Engineering Mechanics and Product Development",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3306",
+    "courseTitle": "Object Oriented Programming using C++",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3307",
+    "courseTitle": "Object Oriented Programming using Java",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3308",
+    "courseTitle": "Object Oriented Programming using C#",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2404",
+    "courseTitle": "Digital Electronics",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC2305",
+    "courseTitle": "Basic Electrical, Electronics and Measurement Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2309",
+    "courseTitle": "Programming Microcontrollers",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3304",
+    "courseTitle": "Fundamentals of C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3305",
+    "courseTitle": "Advanced C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1405",
+    "courseTitle": "Operating System",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1406",
+    "courseTitle": "Computer Networks",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1404",
+    "courseTitle": "Database Management System and its Applications",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3408",
+    "courseTitle": "Data Structures",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3404",
+    "courseTitle": "Analysis of Algorithms",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3414",
+    "courseTitle": "Fundamentals of Web Application Development",
+    "category": "PC",
+    "credits": 5
+  },
+  {
+    "courseCode": "CS3405",
+    "courseTitle": "Fundamentals of Artificial Intelligence",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3550",
+    "courseTitle": "Artificial Intelligence for Games",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3406",
+    "courseTitle": "Digital Image Processing Techniques",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3409",
+    "courseTitle": "Applied Artificial Intelligence",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3410",
+    "courseTitle": "Introduction to Machine Learning",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4401",
+    "courseTitle": "Time Series Analysis and Forecasting",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3411",
+    "courseTitle": "Neural Networks",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3505",
+    "courseTitle": "Reinforcement Learning",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3413",
+    "courseTitle": "Deep Learning and its Applications",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3501",
+    "courseTitle": "Applications of Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3502",
+    "courseTitle": "Applied Natural Language Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3503",
+    "courseTitle": "Computer Vision",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3504",
+    "courseTitle": "Mobile Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3506",
+    "courseTitle": "Speech Analysis and Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3507",
+    "courseTitle": "Special Topics in Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3508",
+    "courseTitle": "Soft Computing Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3509",
+    "courseTitle": "Concepts of Virtual And Augmented Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3510",
+    "courseTitle": "Mobile VR And AI In Unity",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3511",
+    "courseTitle": "Scientific and Engineering Data Visualization",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3512",
+    "courseTitle": "NoSQL Database Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3513",
+    "courseTitle": "Game Programming",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3514",
+    "courseTitle": "Self Driving Car",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3515",
+    "courseTitle": "Smart Manufacturing Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1523",
+    "courseTitle": "Information Retrieval",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3516",
+    "courseTitle": "Big Data Mining and Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3517",
+    "courseTitle": "Business Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3518",
+    "courseTitle": "Cognitive Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3519",
+    "courseTitle": "Distributed Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3520",
+    "courseTitle": "Data Mining and Warehousing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3521",
+    "courseTitle": "Expert Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3522",
+    "courseTitle": "Knowledge Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3523",
+    "courseTitle": "Mobile Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3524",
+    "courseTitle": "Multimedia Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3525",
+    "courseTitle": "Video Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4501",
+    "courseTitle": "Machine Learning for Bioinformatics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4502",
+    "courseTitle": "Genetic Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4503",
+    "courseTitle": "Data Modeling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4504",
+    "courseTitle": "Brain Computer Interaction",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3526",
+    "courseTitle": "Information Security and Access Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3527",
+    "courseTitle": "Security Assessment and Risk Analysis",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1407",
+    "courseTitle": "Theory of Computation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1408",
+    "courseTitle": "Software Engineering",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1409",
+    "courseTitle": "Compiler Design",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3528",
+    "courseTitle": "Advanced Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3529",
+    "courseTitle": "Advanced Data Structures",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3530",
+    "courseTitle": "Control of Robotic Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3531",
+    "courseTitle": "Cryptography and Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3532",
+    "courseTitle": "Information Theory for Cyber Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3533",
+    "courseTitle": "Introduction to Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3534",
+    "courseTitle": "Kinematics and Dynamics of Robots",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3535",
+    "courseTitle": "Robotic Sensors",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3536",
+    "courseTitle": "Steganography and Digital Watermarking",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3537",
+    "courseTitle": "Computer Graphics for Virtual Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3538",
+    "courseTitle": "Mathematical Modelling and Computer Aided Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3539",
+    "courseTitle": "Mobile User Interface Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3540",
+    "courseTitle": "Programming Mobile Devices",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3541",
+    "courseTitle": "Cloud Computing",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3542",
+    "courseTitle": "Agile Software Development",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS3543",
+    "courseTitle": "Software Testing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3544",
+    "courseTitle": "Virtualization and Containerization",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3545",
+    "courseTitle": "Modern Web Application Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3546",
+    "courseTitle": "Web Server Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3547",
+    "courseTitle": "Blockchain for Business",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3407",
+    "courseTitle": "Parallel Computing Architecture",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS4508",
+    "courseTitle": "Introduction to IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1420",
+    "courseTitle": "Prototyping of IoT Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1542",
+    "courseTitle": "Embedded Board Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3553",
+    "courseTitle": "Advanced Java Web Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1417",
+    "courseTitle": "Ethical Hacking Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1545",
+    "courseTitle": "Open Source Operating System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1418",
+    "courseTitle": "Cyber Law and Compliance",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3548",
+    "courseTitle": "Robot Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3549",
+    "courseTitle": "Drone Assembly and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3551",
+    "courseTitle": "Drone Design and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3552",
+    "courseTitle": "Web Application User Interface Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3554",
+    "courseTitle": "Fundamentals of Large Language Models",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3560",
+    "courseTitle": "Augmented Reality and ARCore",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3561",
+    "courseTitle": "Extended Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3555",
+    "courseTitle": "Exploratory Data Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3559",
+    "courseTitle": "Image and Video Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3557",
+    "courseTitle": "Neural Networks and Deep Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3556",
+    "courseTitle": "Recommender Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3558",
+    "courseTitle": "Text and Speech Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4505",
+    "courseTitle": "Statistical Learning Theory",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4506",
+    "courseTitle": "Sensors and Actuators for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4507",
+    "courseTitle": "Security and Trust in IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4509",
+    "courseTitle": "Industrial Internet of Things",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4510",
+    "courseTitle": "Software for Embedded Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4511",
+    "courseTitle": "IoT Architecture and Protocols",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4512",
+    "courseTitle": "Arduino for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4513",
+    "courseTitle": "Raspberry Pi for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4514",
+    "courseTitle": "Motion Planning Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4515",
+    "courseTitle": "Advanced Java Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1558",
+    "courseTitle": "Data Privacy and Protection",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1550",
+    "courseTitle": "AI and Ethics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1563",
+    "courseTitle": "Bitcoin Mining",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1561",
+    "courseTitle": "Blockchain and Fintech",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1559",
+    "courseTitle": "Blockchain Platforms and Its Use Cases",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1305",
+    "courseTitle": "Computer Architecture",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1567",
+    "courseTitle": "Cloud Native App Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1415",
+    "courseTitle": "Cryptography",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3801",
+    "courseTitle": "Artificial Intelligence and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4516",
+    "courseTitle": "Python Programming for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4517",
+    "courseTitle": "Applications of IoT in Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4518",
+    "courseTitle": "Programming for IoT Boards",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4519",
+    "courseTitle": "Design of Smart Cities",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4520",
+    "courseTitle": "IoT and Multimedia Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4521",
+    "courseTitle": "Mobile Application Development for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS4522",
+    "courseTitle": "Open Source Programming for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1416",
+    "courseTitle": "Cloud Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1419",
+    "courseTitle": "Digital Forensics and Digital Investigations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1421",
+    "courseTitle": "Edge Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1422",
+    "courseTitle": "Security for IoT Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1516",
+    "courseTitle": "Software Testing and Quality Assurance",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1533",
+    "courseTitle": "Information Security Intelligence and Analytics using Big Data",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1534",
+    "courseTitle": "Prevention Methodology for Cybersecurity",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1535",
+    "courseTitle": "Trusted Network Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1536",
+    "courseTitle": "Firewalls and Intrusion Detection System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1537",
+    "courseTitle": "Secure Software Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1538",
+    "courseTitle": "System Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1539",
+    "courseTitle": "Hardware Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1540",
+    "courseTitle": "Fog Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1543",
+    "courseTitle": "Embedded Board Manufacturing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1548",
+    "courseTitle": "Cloud Services Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1549",
+    "courseTitle": "UI and UX Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1551",
+    "courseTitle": "Software Testing and Automation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1552",
+    "courseTitle": "DevOps",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1553",
+    "courseTitle": "Web Application Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1565",
+    "courseTitle": "Robotic Process Automation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1566",
+    "courseTitle": "Software Project Management and Version Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1579",
+    "courseTitle": "Generative AI Application Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1568",
+    "courseTitle": "Fine Tuning Large Language Models",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1569",
+    "courseTitle": "Applied Data Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1570",
+    "courseTitle": "Entrepreneurship and Small Business Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1571",
+    "courseTitle": "Software Development and Operations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1572",
+    "courseTitle": "Serverless App Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1573",
+    "courseTitle": "Enterprise Cloud Architecture",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1574",
+    "courseTitle": "Advanced Class Design and Object-Oriented Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1575",
+    "courseTitle": "Low-Code App Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1577",
+    "courseTitle": "Cloud System Administration",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1578",
+    "courseTitle": "Machine Learning Operations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2401",
+    "courseTitle": "Information Technology Essentials",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS2402",
+    "courseTitle": "Game Development Technologies",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS2405",
+    "courseTitle": "Data Structures using Python",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS2406",
+    "courseTitle": "Grid and Cloud Computing",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS2408",
+    "courseTitle": "Distributed Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2501",
+    "courseTitle": "Information Theory and Coding Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2502",
+    "courseTitle": "Enterprise Resource Planning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2503",
+    "courseTitle": "User Interface Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2504",
+    "courseTitle": "Information Storage Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2505",
+    "courseTitle": "Software Design Patterns",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2506",
+    "courseTitle": "E-Learning Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2508",
+    "courseTitle": "TCP/IP Design and Implementation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2509",
+    "courseTitle": "Advanced Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2510",
+    "courseTitle": "Ethical Hacking",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2511",
+    "courseTitle": "DHTML and XML",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2512",
+    "courseTitle": "E-Commerce",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2513",
+    "courseTitle": "Free Open Source Software",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2514",
+    "courseTitle": "Real Time Operating Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2515",
+    "category": "PE",
+    "courseTitle": "Software Agents",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS2516",
+    "courseTitle": "Business Intelligence and Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3412",
+    "courseTitle": "Web Data Mining",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "CS1557",
+    "courseTitle": "Software Defined Networks",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS1556",
+    "courseTitle": "Core Computing Concepts",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3702",
+    "courseTitle": "Project Work I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3703",
+    "courseTitle": "Project Work II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "SH6802",
+    "courseTitle": "Start Up",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8801",
+    "courseTitle": "Constitutionalism and Artificial Intelligence Policies in India",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8802",
+    "courseTitle": "Internship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH8803",
+    "courseTitle": "Entrepreneurship",
+    "category": "MC",
+    "credits": 2
+  }
+]

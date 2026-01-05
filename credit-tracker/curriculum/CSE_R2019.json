@@ -1,0 +1,1430 @@
+[
+  {
+    "courseCode": "19EN102",
+    "courseTitle": "Technical English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EN101",
+    "courseTitle": "Communicative English",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MS151",
+    "courseTitle": "Principles of Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19MS152",
+    "courseTitle": "Total Quality Management",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "19MS153",
+    "courseTitle": "Management and Quality Principles for Engineering",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "22HS101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "22HS102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MA201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA206",
+    "courseTitle": "Logic and Combinatorics",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA212",
+    "courseTitle": "Algebra and Number Theory",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19MA218",
+    "courseTitle": "Probability and Queueing Theory",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19PH205",
+    "courseTitle": "Computational Physics",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CY205",
+    "courseTitle": "Principles of Chemistry in Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS301",
+    "courseTitle": "Problem Solving and Python Programming",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EE305",
+    "courseTitle": "Basic Electrical, Electronics and Measurement Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19ME302",
+    "courseTitle": "Engineering Drawing",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19EC303",
+    "courseTitle": "Digital Principles and System Design",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EC307",
+    "courseTitle": "Communication Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS302",
+    "courseTitle": "Programming in C",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS305",
+    "courseTitle": "Computer Architecture",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS308",
+    "courseTitle": "Software Testing Laboratory",
+    "category": "ES",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CS401",
+    "courseTitle": "Data Structures and Object Oriented Programming using C++",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS402",
+    "courseTitle": "Design and Analysis of Algorithms",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS403",
+    "courseTitle": "Programming Paradigms",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS404",
+    "courseTitle": "Database Management System and its Applications",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS405",
+    "courseTitle": "Operating System",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS406",
+    "courseTitle": "Computer Networks",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS407",
+    "courseTitle": "Theory of Computation",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS408",
+    "courseTitle": "Software Engineering",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS409",
+    "courseTitle": "Compiler Design",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS410",
+    "courseTitle": "Web Programming",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1401",
+    "courseTitle": "Fundamentals of Web Technology",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1402",
+    "courseTitle": "Web Technology Laboratory",
+    "category": "PC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19A1414",
+    "courseTitle": "Fundamentals of Web Application Development",
+    "category": "PC",
+    "credits": 5
+  },
+  {
+    "courseCode": "19CS411",
+    "courseTitle": "Virtualization and Cloud Computing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS412",
+    "courseTitle": "Cryptography and Network Security",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS413",
+    "courseTitle": "Artificial Intelligence",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19EC408",
+    "courseTitle": "Microprocessor and Microcontroller",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS414",
+    "courseTitle": "Mobile Application Development",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1303",
+    "courseTitle": "Engineering Mechanics and Product Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1306",
+    "courseTitle": "Object Oriented Programming using C++",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1308",
+    "courseTitle": "Object Oriented Programming using C#",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1403",
+    "courseTitle": "Introduction to Data Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1405",
+    "courseTitle": "Fundamentals of Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1406",
+    "courseTitle": "Digital Image Processing Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1407",
+    "courseTitle": "Parallel Computing Architecture",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1409",
+    "courseTitle": "Applied Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1410",
+    "courseTitle": "Introduction to Machine Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1411",
+    "courseTitle": "Neural Networks",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1412",
+    "courseTitle": "Web Data Mining",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1413",
+    "courseTitle": "Deep Learning and its Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1501",
+    "courseTitle": "Applications of Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1502",
+    "courseTitle": "Applied Natural Language Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1503",
+    "courseTitle": "Computer Vision",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1504",
+    "courseTitle": "Mobile Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1505",
+    "courseTitle": "Reinforcement Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1506",
+    "courseTitle": "Speech Analysis and Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1507",
+    "courseTitle": "Special Topics in Artificial Intelligence",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1508",
+    "courseTitle": "Soft Computing Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1509",
+    "courseTitle": "Concepts of Virtual And Augmented Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1510",
+    "courseTitle": "Mobile VR And AI In Unity",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1511",
+    "courseTitle": "Scientific and Engineering Data Visualization",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1512",
+    "courseTitle": "NoSQL Database Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1513",
+    "courseTitle": "Game Programming",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1514",
+    "courseTitle": "Self Driving Car",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1515",
+    "courseTitle": "Smart Manufacturing Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1516",
+    "courseTitle": "Big Data Mining and Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1517",
+    "courseTitle": "Business Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1518",
+    "courseTitle": "Cognitive Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1519",
+    "courseTitle": "Distributed Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1520",
+    "courseTitle": "Data Mining and Warehousing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1521",
+    "courseTitle": "Expert Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1522",
+    "courseTitle": "Knowledge Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1523",
+    "courseTitle": "Mobile Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1524",
+    "courseTitle": "Multimedia Database",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1525",
+    "courseTitle": "Video Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1526",
+    "courseTitle": "Information Security and Access Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1527",
+    "courseTitle": "Security Assessment and Risk Analysis",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1528",
+    "courseTitle": "Advanced Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1529",
+    "courseTitle": "Advanced Data Structures",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1530",
+    "courseTitle": "Control of Robotic Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1531",
+    "courseTitle": "Cryptography and Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1532",
+    "courseTitle": "Information Theory for Cyber Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1533",
+    "courseTitle": "Introduction to Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1534",
+    "courseTitle": "Kinematics and Dynamics of Robots",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1535",
+    "courseTitle": "Robotic Sensors",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1536",
+    "courseTitle": "Steganography and Digital Watermarking",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1537",
+    "courseTitle": "Computer Graphics for Virtual Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1538",
+    "courseTitle": "Mathematical Modelling and Computer Aided Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1539",
+    "courseTitle": "Mobile User Interface Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1540",
+    "courseTitle": "Programming Mobile Devices",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1541",
+    "courseTitle": "Cloud Computing",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1542",
+    "courseTitle": "Agile Software Development",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19A1543",
+    "courseTitle": "Software Testing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1544",
+    "courseTitle": "Virtualization and Containerization",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1545",
+    "courseTitle": "Modern Web Application Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1546",
+    "courseTitle": "Web Server Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1547",
+    "courseTitle": "Blockchain for Business",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1548",
+    "courseTitle": "Robot Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1549",
+    "courseTitle": "Drone Assembly and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1550",
+    "courseTitle": "Artificial Intelligence for Games",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1551",
+    "courseTitle": "Drone Design and Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19A1552",
+    "courseTitle": "Web Application User Interface Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM401",
+    "courseTitle": "Time Series Analysis and Forecasting",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19AM406",
+    "courseTitle": "Blockchain and Cryptocurrency",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM407",
+    "courseTitle": "Cyber Forensics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM501",
+    "courseTitle": "Machine Learning for Bioinformatics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM502",
+    "courseTitle": "Genetic Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM503",
+    "courseTitle": "Data Modeling",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM504",
+    "courseTitle": "Brain Computer Interaction",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM505",
+    "courseTitle": "Statistical Learning Theory",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM506",
+    "courseTitle": "Sensors and Actuators for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM507",
+    "courseTitle": "Security and Trust in IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM508",
+    "courseTitle": "Introduction to IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM509",
+    "courseTitle": "Industrial Internet of Things",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM510",
+    "courseTitle": "Software for Embedded Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM511",
+    "courseTitle": "IoT Architecture and Protocols",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM512",
+    "courseTitle": "Arduino for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM513",
+    "courseTitle": "Raspberry Pi for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM514",
+    "courseTitle": "Motion Planning Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM515",
+    "courseTitle": "Advanced Java Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM516",
+    "courseTitle": "Python Programming for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM517",
+    "courseTitle": "Applications of IoT in Robotics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM518",
+    "courseTitle": "Programming for IoT Boards",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM519",
+    "courseTitle": "Design of Smart Cities",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM520",
+    "courseTitle": "IoT and Multimedia Technology",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM521",
+    "courseTitle": "Mobile Application Development for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19AM522",
+    "courseTitle": "Open Source Programming for IoT",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS416",
+    "courseTitle": "Cloud Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS417",
+    "courseTitle": "Ethical Hacking Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS418",
+    "courseTitle": "Cyber Law and Compliance",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS419",
+    "courseTitle": "Digital Forensics and Digital Investigations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS420",
+    "courseTitle": "Prototyping of IoT Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS421",
+    "courseTitle": "Edge Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS422",
+    "courseTitle": "Security for IoT Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS501",
+    "courseTitle": "Machine Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS502",
+    "courseTitle": "Computer Graphics and Multimedia",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS503",
+    "courseTitle": "Developing Web Application in Net",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS504",
+    "courseTitle": "Software Project Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS505",
+    "courseTitle": "Service Oriented Architecture",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS506",
+    "courseTitle": "Multicore Architecture",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS507",
+    "courseTitle": "Human Computer Interaction",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS508",
+    "courseTitle": "Parallel and Distributed Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS509",
+    "courseTitle": "Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS510",
+    "courseTitle": "Social Network Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS511",
+    "courseTitle": "Natural Language Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS512",
+    "courseTitle": "Soft Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS513",
+    "courseTitle": "Green Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS514",
+    "courseTitle": "Network Management Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS515",
+    "courseTitle": "Block Chain Architecture and its Use Cases",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS516",
+    "courseTitle": "Software Testing and Quality Assurance",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS517",
+    "courseTitle": "Mobile Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS518",
+    "courseTitle": "Game Design and Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS519",
+    "courseTitle": "Data Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "sourceCode": "19CS520",
+    "courseTitle": "Big Data Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS521",
+    "courseTitle": "Data Warehousing and Data Mining",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS522",
+    "courseTitle": "Advanced Database Management System",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19CS523",
+    "courseTitle": "Information Retrieval",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS524",
+    "courseTitle": "Deep Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS526",
+    "courseTitle": "R Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS528",
+    "courseTitle": "Robotics and its Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS529",
+    "courseTitle": "Quantum Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS530",
+    "courseTitle": "Cyber Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS531",
+    "courseTitle": "Virtual Reality",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS532",
+    "courseTitle": "Professional Readiness for Innovation, Employability and Entrepreneurship",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS533",
+    "courseTitle": "Information Security Intelligence and Analytics using Big Data",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS534",
+    "courseTitle": "Prevention Methodology for Cybersecurity",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS535",
+    "courseTitle": "Trusted Network Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS536",
+    "courseTitle": "Firewalls and Intrusion Detection System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS537",
+    "courseTitle": "Secure Software Engineering",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS538",
+    "courseTitle": "System Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS539",
+    "courseTitle": "Hardware Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS540",
+    "courseTitle": "Fog Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS542",
+    "courseTitle": "Embedded Board Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS543",
+    "courseTitle": "Embedded Board Manufacturing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS544",
+    "courseTitle": "Realtime Operating System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS545",
+    "courseTitle": "Open Source Operating System",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS546",
+    "courseTitle": "Kernel Programming",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS547",
+    "courseTitle": "Fundamentals of Cryptocurrency",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS565",
+    "courseTitle": "Robotic Process Automation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS566",
+    "courseTitle": "Software Project Management and Version Control",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS579",
+    "courseTitle": "Generative AI Application Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS568",
+    "courseTitle": "Fine Tuning Large Language Models",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS569",
+    "courseTitle": "Applied Data Science",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS570",
+    "courseTitle": "Entrepreneurship and Small Business Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS571",
+    "courseTitle": "Software Development and Operations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS572",
+    "courseTitle": "Serverless App Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS573",
+    "courseTitle": "Enterprise Cloud Architecture",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS574",
+    "courseTitle": "Advanced Class Design and Object-Oriented Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS575",
+    "courseTitle": "Low-Code App Development",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS577",
+    "courseTitle": "Cloud System Administration",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS578",
+    "courseTitle": "Machine Learning Operations",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19EC414",
+    "courseTitle": "Embedded Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19EC416",
+    "courseTitle": "Principles of Digital Signal Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19EC503",
+    "courseTitle": "Digital Image Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19EC508",
+    "courseTitle": "Ad Hoc and Wireless Sensor Networks",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT401",
+    "courseTitle": "Information Technology Essentials",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19IT402",
+    "courseTitle": "Game Development Technologies",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19IT404",
+    "courseTitle": "Web Technology",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19IT405",
+    "courseTitle": "Data Structures using Python",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19IT406",
+    "courseTitle": "Grid and Cloud Computing",
+    "category": "PE",
+    "credits": 4
+  },
+  {
+    "courseCode": "19IT408",
+    "courseTitle": "Distributed Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT501",
+    "courseTitle": "Information Theory and Coding Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT502",
+    "courseTitle": "Enterprise Resource Planning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT503",
+    "courseTitle": "User Interface Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT504",
+    "courseTitle": "Information Storage Management",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT505",
+    "courseTitle": "Software Design Patterns",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT506",
+    "courseTitle": "E-Learning Techniques",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT508",
+    "courseTitle": "TCP/IP Design and Implementation",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT509",
+    "courseTitle": "Advanced Algorithms",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT510",
+    "courseTitle": "Ethical Hacking",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT511",
+    "courseTitle": "DHTML and XML",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT512",
+    "courseTitle": "E-Commerce",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT513",
+    "courseTitle": "Free Open Source Software",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT514",
+    "courseTitle": "Real Time Operating Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT515",
+    "courseTitle": "Software Agents",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19IT516",
+    "courseTitle": "Business Intelligence and Analytics",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "19CS701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CS702",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19CS703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "19EY701",
+    "courseTitle": "Softskills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY702",
+    "courseTitle": "Creative Skills for Communication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY703",
+    "courseTitle": "System of Numerical and Logical Terminologies",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY704",
+    "courseTitle": "Advanced Quantitative and Logical Reasoning",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY705",
+    "courseTitle": "Employment Enhancement Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY706",
+    "courseTitle": "Company Specific Assessments For Employability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19EY707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "19MC801",
+    "courseTitle": "Professional Ethics",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC802",
+    "courseTitle": "Environmental Science",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC803",
+    "courseTitle": "Constitution of India",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "19MC804",
+    "courseTitle": "Internship/Entrepreneurship/Consultancy",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "19MC805",
+    "courseTitle": "Inplant Training",
+    "category": "MC",
+    "credits": 1
+  }
+]

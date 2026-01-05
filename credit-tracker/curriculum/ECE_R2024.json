@@ -1,0 +1,482 @@
+[
+  {
+    "courseCode": "SH1106",
+    "courseTitle": "English for Engineers",
+    "category": "HS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH1107",
+    "courseTitle": "Technical Writing and Presentation",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH9801",
+    "courseTitle": "Organizational Behavior and Leadership",
+    "category": "HS",
+    "credits": 3
+  },
+  {
+    "courseCode": "SH7801",
+    "courseTitle": "Human Values and Professional Ethics",
+    "category": "HS",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH7101",
+    "courseTitle": "Heritage of Tamils",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH7102",
+    "courseTitle": "Tamils and Technology",
+    "category": "HS",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH2201",
+    "courseTitle": "Calculus and Matrix Algebra",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2204",
+    "courseTitle": "Calculus and Laplace Transforms",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2205",
+    "courseTitle": "Complex Variables and Ordinary Differential Equations",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2212",
+    "courseTitle": "Algebra and Number Theory",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2223",
+    "courseTitle": "Linear Algebra and Probability",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH2211",
+    "courseTitle": "Statistics and Numerical Methods",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH3216",
+    "courseTitle": "Physics for Electronics Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4205",
+    "courseTitle": "Principles of Chemistry in Engineering",
+    "category": "BS",
+    "credits": 4
+  },
+  {
+    "courseCode": "SH4801",
+    "courseTitle": "Environmental Sciences and Sustainability",
+    "category": "BS",
+    "credits": 2
+  },
+  {
+    "courseCode": "CS3301",
+    "courseTitle": "Python Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3304",
+    "courseTitle": "Fundamentals of C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "CS3305",
+    "courseTitle": "Advanced C Programming",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EE3304",
+    "courseTitle": "Basic Electrical and Electronics Engineering",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC2301",
+    "courseTitle": "Electric Circuits and Networks",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1302",
+    "courseTitle": "Electronic Devices",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1801",
+    "courseTitle": "Digital Principles and System Design",
+    "category": "ES",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1802",
+    "courseTitle": "Electromagnetic Fields",
+    "category": "ES",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1402",
+    "courseTitle": "Signals and Systems",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1419",
+    "courseTitle": "Electronic Circuits",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1420",
+    "courseTitle": "Analog Communication",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1406",
+    "courseTitle": "Digital Communication",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1421",
+    "courseTitle": "Analysis and Design of Analog ICS",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1823",
+    "courseTitle": "Control System Engineering",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1408",
+    "courseTitle": "Microprocessor and Microcontroller",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1409",
+    "courseTitle": "Discrete Time Signal Processing",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1410",
+    "courseTitle": "VLSI Design",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1411",
+    "courseTitle": "Antennas and Microwave Engineering",
+    "category": "PC",
+    "credits": 4
+  },
+  {
+    "courseCode": "EC1413",
+    "courseTitle": "Wireless Communication",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1424",
+    "courseTitle": "Embedded Systems and IoT",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1604",
+    "courseTitle": "Consumer Electronics",
+    "category": "PC",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1501",
+    "courseTitle": "Machine Learning",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1502",
+    "courseTitle": "Computer Graphics and Multimedia",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1503",
+    "courseTitle": "Digital Image Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1504",
+    "courseTitle": "DSP Processors",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1509",
+    "courseTitle": "Graph Theory and Applications",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1510",
+    "courseTitle": "Social Network Analysis",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1511",
+    "courseTitle": "Satellite Communication",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1512",
+    "courseTitle": "Soft Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1513",
+    "courseTitle": "Green Computing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1514",
+    "courseTitle": "Network Management Systems",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1515",
+    "courseTitle": "Block Chain Architecture and its Use Cases",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1516",
+    "courseTitle": "Software Testing and Quality Assurance",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1517",
+    "courseTitle": "Low Power VLSI Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1518",
+    "courseTitle": "CMOS Analog IC Design",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1519",
+    "courseTitle": "Testing of VLSI Circuits",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1520",
+    "courseTitle": "Introduction to MEMS and NEMS",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1521",
+    "courseTitle": "System Verilog for Design and Verification",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1522",
+    "courseTitle": "Physical Design for VLSI",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1523",
+    "courseTitle": "Verilog HDL",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1524",
+    "courseTitle": "Natural Language Processing",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1525",
+    "courseTitle": "RF MEMS and MOEMS",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1532",
+    "courseTitle": "Professional Readiness for Innovation, Employability and Entrepreneurship",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC1418",
+    "courseTitle": "Communication Networks and Cyber Security",
+    "category": "PE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - I",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - II",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - III",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "XXXXXX",
+    "courseTitle": "Open Elective - IV",
+    "category": "OE",
+    "credits": 3
+  },
+  {
+    "courseCode": "EC3701",
+    "courseTitle": "Mini Project",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC3702",
+    "courseTitle": "Project Work Phase I",
+    "category": "EEC",
+    "credits": 2
+  },
+  {
+    "courseCode": "EC3703",
+    "courseTitle": "Project Work Phase II",
+    "category": "EEC",
+    "credits": 6
+  },
+  {
+    "courseCode": "SH6802",
+    "courseTitle": "Start Up",
+    "category": "EEC",
+    "credits": 8
+  },
+  {
+    "courseCode": "SH6708",
+    "courseTitle": "Career Development Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6709",
+    "courseTitle": "Reasoning Ability",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6710",
+    "courseTitle": "Quantitative Ability I",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6711",
+    "courseTitle": "Quantitative Ability II",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6712",
+    "courseTitle": "Employment Enrichment Skills",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6713",
+    "courseTitle": "Placement Readiness Assessment",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH6707",
+    "courseTitle": "Paper Publication",
+    "category": "EEC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8801",
+    "courseTitle": "Constitutionalism and Artificial Intelligence Policies in India",
+    "category": "MC",
+    "credits": 1
+  },
+  {
+    "courseCode": "SH8802",
+    "courseTitle": "Internship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH8803",
+    "courseTitle": "Entrepreneurship",
+    "category": "MC",
+    "credits": 2
+  },
+  {
+    "courseCode": "SH6803",
+    "courseTitle": "National Service Scheme",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8807",
+    "courseTitle": "National Sports Organization",
+    "category": "MC",
+    "credits": 0
+  },
+  {
+    "courseCode": "SH8808",
+    "courseTitle": "Youth Red Cross",
+    "category": "MC",
+    "credits": 0
+  }
+]
